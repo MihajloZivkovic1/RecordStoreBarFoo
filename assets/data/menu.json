@@ -1,0 +1,24 @@
+[
+    {
+        "href":"index.html",
+        "slika":"assets/img/banner-logo.jpeg"
+    },
+    {
+        "href":"index.html",
+        "naziv":"Home"
+    },
+    {
+        "href":"vinyl.html",
+        "naziv":"Vinyl"
+    },
+    {
+        "href":"contact.html",
+        "naziv":"Contact"
+    },
+    {
+        "href":"author.html",
+        "naziv":"Author"
+    }
+
+
+]

@@ -1,0 +1,213 @@
+[
+  {
+    "id": 0,
+    "artist": "Sleep",
+    "album": "Holy Mountain",
+    "image": "assets/img/holyMountain.jpeg",
+    "genre": "Doom",
+    "year": 1992,
+    "notes": "Sleeps Holy Mountain is the second studio album by the American band Sleep.It was released in November1992 in Europe, and March1993 in the USA through Earache Records.",
+    "likes": 18,
+    "genreid": 1
+    
+    
+  },
+  {
+    "id": 1,
+    "artist": "Black Sabbath",
+    "album": "Master of Reality",
+    "image": "assets/img/blacksabbath.jpeg",
+    "genre": "Rock",
+    "year": 1971,
+    "notes": "Catalog entry #3, released on July21, 1971. Master of Reality reached #8 on the U.S. album chart, immediately going gold. It was Black Sabbaths1st album to debut in the Top 10. Also their first album to feature the heavier new sound created by dropping the tuning three semi-tones below the standard E, thus creating the premise for what would become known as the stoner rock sound.",
+    "likes": 54,
+    "genreid":2
+  },
+  {
+    "id": 2,
+    "artist": "Metallica",
+    "album": "Ride The Lightning",
+    "image": "assets/img/ridethelightning.png",
+    "genre": "Trash Metal",
+    "year": 1984,
+    "notes": "Ride the Lightning is the second studio album by American heavy metal band Metallica, released on July27,1984, by the independent record label Megaforce Records",
+    "likes": 31,
+    "genreid":3
+   
+  },
+  {
+    "id": 3,
+    "artist": "Uncle Acid and The Deadbeats",
+    "album": "The Night Creeper",
+    "image": "assets/img/ucleacid.jpeg",
+    "genre": "Doom",
+    "year": 2015,
+    "notes": "The Night Creeper is the fourth studio album by English band Uncle Acid & the Deadbeats. The album released on4 September 2015.",
+    "likes": 72,
+    "genreid": 1
+  },
+  {
+    "id": 4,
+    "artist": "Uncle Acid and The Deadbeats",
+    "album": "Vol1",
+    "image": "assets/img/ucnleacidvol1.jpg",
+    "genre": "Doom",
+    "year": 2010,
+    "notes": "First released on Friday February13th, (40 years to the day after Black Sabbath’s debut LP), “Vol1” was the first efforts of unknown songwriter, Kevin Starrs. Pressed in small numbers for a non existing fan base, the album took several months to shift all30 CD-R copies and provided a small platform to fund its follow up, “Blood Lust” (2011).",
+    "likes": 113,
+    "genreid":1
+  },
+  {
+    "id": 5,
+    "artist": "Queens of the Stone Age",
+    "album": "Villians",
+    "image": "assets/img/queens.png",
+    "genre": "Rock",
+    "year": 2017,
+    "notes": "Villains is the seventh studio album by American rock band Queens of the Stone Age, released on August25, 2017 through Matador.",
+    "likes": 28,
+    "reviews": [],
+    "genreid":3
+  },
+  {
+    "artist": "Primus",
+    "album": "The Desaturating Seven",
+    "image": "assets/img/primus.jpeg",
+    "genre": "Rock",
+    "year": 2017,
+    "notes": "The album is a concept album, loosely based on the children's book The Rainbow Goblins, written by Italian author of childrens books, Ul de Rico. Les Claypool used to read the book to his children when they were younger, and was fascinated and inspired by the vibrant artwork and use of colours of the book. Claypool always felt the book's story would make a fascinating musical project, and eventually approached his fellow band members about recording original music based on the story of the book.",
+    "likes": 14,
+    "genreid":2,
+    "reviews": [
+      {
+        "user": 10,
+        "name": "ciaran",
+        "date": "3/10/2017",
+        "image": "https://media.giphy.com/media/26BRCgL3K4lx1zBCw/giphy.gif",
+        "summary": "Primus suck!"
+      }
+    ],
+    "id": 6
+  },
+  {
+    "artist": "Black Flag",
+    "album": "Live '84",
+    "image": "assets/img/blackflag.jpeg",
+    "genre": "Punk",
+    "year": "1984",
+    "notes": "Live '84 is an album released by Black Flag in 1984 on SST Records. It is a live recording of a show played in 1984 and features mostly tracks from My War and Slip It In. The album was recorded at the Stone nightclub in San Francisco, CA.",
+    "likes": 9,
+    "genreid":4,
+    "reviews": [],
+    "id": 7
+  },
+  {
+    "artist": "Ramones",
+    "album": "Rocket to Russia",
+    "image": "assets/img/ramonesrocket.jpeg",
+    "genre": "Punk",
+    "year": "1977",
+    "notes": "Rocket to Russia is the third studio album by the American punk rock band the Ramones, and was released on November 4, 1977, through Sire Records. Its origins date back to the summer of 1977, when \"Sheena Is a Punk Rocker\" was released as a single.",
+    "likes": 14,
+    "genreid":4,
+    "reviews": [
+      {
+        "user": 10,
+        "name": "ciaran",
+        "date": "3/10/2017",
+        "image": "https://media.giphy.com/media/26BRCgL3K4lx1zBCw/giphy.gif",
+        "summary": "Classic Album, 40 years old now"
+      }
+    ],
+    "id": 8
+  },
+  {
+    "artist": "Black Sabbath",
+    "album": "Vol 4",
+    "image": "assets/img/sabbathvol4.png",
+    "genre": "Rock",
+    "year": "1972",
+    "notes": "Vol. 4 is the fourth studio album by English rock band Black Sabbath, released in September 1972. It was the first album by Black Sabbath not produced by Rodger Bain; guitarist Tony Iommi assumed production duties.",
+    "likes": 7,
+    "genreid":2,
+    "reviews": [
+      {
+        "user": 10,
+        "name": "ciaran",
+        "date": "3/10/2017",
+        "image": "https://media.giphy.com/media/26BRCgL3K4lx1zBCw/giphy.gif",
+        "summary": "One of their best"
+      }
+    ],
+    "id": 9
+  },
+  {
+    "artist": "Monolord",
+    "album": "Empress Rising",
+    "image": "assets/img/monolord.jpeg",
+    "genre": "Rock",
+    "year": "2014",
+    "notes": "Empress Rising is the band’s first full-length release and consists of “only” 5 songs, though the album clocks in an impressive length of over 45 minutes. First track is the title track, which is also the longest track on the album, being just over 12 minutes in length. And the album couldn’t start better. After a gentle opener this track just builds up on the fuzz and heavy low-end riffing and slowly introduces more and more elements to the music. Thomas Jäger’s vocals are very good and perhaps initially a bit surprising on first listen. So many doom bands I’ve listened to lately employ the more heavier grunting or more shouting vocal style, while Jäger’s vocals are very spacey, nicely produced by the use of some echoey effects. It’s giving the music a very hypnotic effect.",
+    "likes": 20,
+    "genreid":2,
+    "reviews": [],
+    "id": 10
+  },
+  {
+    "artist": "The Doors",
+    "album": "L.A. Woman",
+    "image": "assets/img/lawoman.jpg",
+    "genre": "Rock",
+    "year": "1971",
+    "notes": "6th studio album released April 19, 1971.\nThe US and UK releases were initially issued in rounded-corner sleeves with embossed text. The front has a cut-out window with clear acetate, on which the band photo is printed black half-tone. The disc is in a yellow radius-corner liner, which provides background color to the sleeve window image when inserted.\n\nLater sleeves or cover images simply emulate this effect, with no die-cuts and with normal square corners.",
+    "likes": 2,
+    "genreid":2,
+    "reviews": [
+      {
+        "user": 10,
+        "name": "ciaran",
+        "date": "3/10/2017",
+        "image": "https://media.giphy.com/media/26BRCgL3K4lx1zBCw/giphy.gif",
+        "summary": "My favourite doors album"
+      }
+    ],
+    "id": 11
+  },
+  {
+    "artist": "Fear Factory",
+    "album": "Demanufacture",
+    "image": "assets/img/fearfactory.jpeg",
+    "genre": "Metal",
+    "year": "1995",
+    "notes": "Demanufacture is the second studio album by American industrial metal band Fear Factory, released on June 13, 1995 by Roadrunner Records. Burton C. Bell wrote a majority of the lyrics and Dino Cazares wrote all the music.",
+    "likes": 10,
+    "genreid":5,
+    "reviews": [
+      {
+        "user": 10,
+        "name": "ciaran",
+        "date": "4/10/2017",
+        "image": "https://media.giphy.com/media/26BRCgL3K4lx1zBCw/giphy.gif",
+        "summary": "Self Bias Resistor . . . heaviest song ever"
+      }
+    ],
+    "id": 12
+  },
+  {
+    "artist": "Metallica",
+    "album": ". . . And Justice For All",
+    "image": "assets/img/andjustice.jpg",
+    "genre": "Metal",
+    "year": "1988",
+    "notes": "…And Justice for All is the fourth studio album by American heavy metal band Metallica, released on August 25, 1988, by Elektra Records. It was the band's first studio album to feature bassist Jason Newsted after the death of Cliff Burton in 1986.",
+    "likes": 54,
+    "reviews": [],
+    "genreid":5,
+    "id": 13
+  }
+]
+
+
+
+    
+    

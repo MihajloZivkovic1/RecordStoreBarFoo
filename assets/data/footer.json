@@ -1,0 +1,16 @@
+[
+    
+        {
+            "href":"index.html",
+            "naziv":"Home"
+        },
+        {
+            "href":"vinyl.html",
+            "naziv":"Vinyl"
+        },
+        {
+            "href":"contact.html",
+            "naziv":"Contact"
+        }
+    
+]

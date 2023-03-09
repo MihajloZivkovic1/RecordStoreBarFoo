@@ -1,0 +1,23 @@
+[
+    {
+        "id":1,
+        "name":"Doom"
+    },
+    {
+        "id":2,
+        "name":"Rock"
+    },
+    {
+        "id":3,
+        "name":"Trash Metal"
+    },
+    {
+        "id":4,
+        "name":"Punk"
+    },
+    {
+        "id":5,
+        "name":"Metal"
+    }
+
+]
